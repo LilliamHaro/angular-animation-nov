@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navegador {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    background-color: rgb(160, 204, 221);
+    z-index: 45;
+}
+.list-items li {
+    list-style: none;
+}
